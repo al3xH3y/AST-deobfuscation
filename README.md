@@ -11,6 +11,7 @@ Launch script who will generate output :
 node deob.js obfuscated.json
 
 node deob.js ../akamai-deobfuscator-2.0/obfuscated.json
+
 [-] escodegen failed on full AST, trying a filtered approach...7
 
 [+] escodegen succeeded on filtered AST (kept top-level declarations).
