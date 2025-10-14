@@ -4,7 +4,7 @@ akami v2.0 deobfuscation
 
 npm init -y
 
-npm install estraverse && npm install escodegen
+npm install estraverse escodegen
 
 Launch script who will generate output : 
 
