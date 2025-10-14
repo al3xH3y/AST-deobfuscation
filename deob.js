@@ -5,7 +5,7 @@
 *   node ast-to-src.js <path_to_ast.json> [output_path]
 *
 * Exemple:
-*   node ast-to-src.js ./ch38.json ./input/src.js
+*   node ast-to-src.js ./file.json ./input/src.js
 *
 * Dépendances:
 *   npm install escodegen estraverse
