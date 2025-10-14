@@ -10,9 +10,11 @@ Launch script who will generate output :
 
 node deob.js obfuscated.json
 
-node deob.js ../akamai-deobfuscator-2.0/ch38.json
-[-] escodegen failed on full AST, trying a filtered approach...
+node deob.js ../akamai-deobfuscator-2.0/obfuscated.json
+[-] escodegen failed on full AST, trying a filtered approach...7
+
 [+] escodegen succeeded on filtered AST (kept top-level declarations).
+
 [OK] Wrote generated source to /home/user/deobast/src.js
 
 Get the obfuscated flag : 
